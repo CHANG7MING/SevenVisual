@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">SE7EN-VISUAL：漫画墨线、半调网点、空间方向一致</title>
+  <desc id="desc">左侧说明视觉规则，右侧人物拿画笔在纸上按正确方向绘制人物、书本、手机、平板、窗户和电视。</desc>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#1d1d1b" opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="720" fill="#f7f1e7"/>
+  <rect width="1600" height="720" fill="url(#dots)"/>
+
+  <g fill="#1d1d1b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif">
+    <text x="88" y="126" font-size="62" font-weight="800" letter-spacing="2">SE7EN-VISUAL</text>
+    <rect x="88" y="150" width="570" height="8" rx="4"/>
+    <text x="88" y="205" font-size="23" font-weight="700">漫画墨线 · 半调网点 · 空间方向一致</text>
+    <text x="88" y="252" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" fill="#4d4a44">A Codex visual system for useful, consistent images.</text>
+  </g>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif">
+    <rect x="88" y="307" width="235" height="82" rx="18" fill="#1d1d1b"/>
+    <text x="116" y="339" font-size="16" font-weight="700" fill="#f7f1e7">IDEAS → VISUALS</text>
+    <text x="116" y="366" font-size="15" fill="#f7f1e7">抽象概念变清晰</text>
+    <rect x="344" y="307" width="235" height="82" rx="18" fill="#5f86b5"/>
+    <text x="372" y="339" font-size="16" font-weight="700" fill="#fff">EXPLAIN BY SCENE</text>
+    <text x="372" y="366" font-size="15" fill="#fff">难懂内容更直观</text>
+    <rect x="600" y="307" width="166" height="82" rx="18" fill="#e7a24b"/>
+    <text x="628" y="339" font-size="16" font-weight="700" fill="#1d1d1b">MESS → MAP</text>
+    <text x="628" y="366" font-size="15" fill="#1d1d1b">杂乱思绪成图</text>
+  </g>
+
+  <text x="88" y="472" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="700" fill="#1d1d1b">FROM THOUGHT TO SCENE</text>
+  <text x="88" y="508" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="15" fill="#4d4a44">用人物、动作和空间，把想法变成看得懂的画面</text>
+  <path d="M88 585 H730" stroke="#1d1d1b" stroke-width="2" opacity=".28"/>
+  <text x="88" y="627" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" fill="#4d4a44">概念可视化 / 场景解释 / 思绪整理 / 统一视觉语言</text>
+
+  <image x="830" y="0" width="700" height="700" preserveAspectRatio="xMidYMid meet" xlink:href="source/hero-subject-transparent.png"/>
+  <circle cx="1117" cy="659" r="9" fill="#e7a24b"/>
+  <circle cx="1149" cy="659" r="9" fill="#5f86b5"/>
+  <circle cx="1181" cy="659" r="9" fill="#6d9d68"/>
+  <text x="1210" y="665" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#4d4a44">restrained semantic accents</text>
+</svg>

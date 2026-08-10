@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE7EN-VISUAL"
+  short_description: "稳定生成圆润男生与灰色虎斑猫的墨线配图"
+  default_prompt: "使用 $se7en-visual 将内容生成统一风格的男生与灰色虎斑猫配图。"
