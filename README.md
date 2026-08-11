@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="SE7EN-VISUAL：人物拿画笔在纸上绘制人物、书本、手机、平板、窗户和电视的方向关系">
+  <img src="./assets/readme/hero.svg" width="100%" alt="SE7ENVISUAL：人物拿画笔在纸上绘制人物、书本、手机、平板、窗户和电视的方向关系">
 </p>
 
 <p align="center">
-  <strong>SE7EN-VISUAL</strong><br>
+  <strong>SE7ENVISUAL</strong><br>
   面向 Codex 的统一漫画墨线配图规范
 </p>
 
