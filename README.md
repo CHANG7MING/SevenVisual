@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.png" width="100%" alt="SE7EN-VISUAL：人物拿画笔在纸上绘制人物、书本、手机、平板、窗户和电视的方向关系">
+  <img src="./assets/readme/hero.svg" width="100%" alt="SE7EN-VISUAL：人物拿画笔在纸上绘制人物、书本、手机、平板、窗户和电视的方向关系">
 </p>
 
 <p align="center">

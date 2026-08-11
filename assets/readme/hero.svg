@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
-  <title id="title">SE7EN-VISUAL：漫画墨线、半调网点、空间方向一致</title>
+  <title id="title">SE7ENVISUAL：漫画墨线、半调网点、空间方向一致</title>
   <desc id="desc">左侧说明视觉规则，右侧人物拿画笔在纸上按正确方向绘制人物、书本、手机、平板、窗户和电视。</desc>
   <defs>
     <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
@@ -10,10 +10,10 @@
   <rect width="1600" height="720" fill="url(#dots)"/>
 
   <g fill="#1d1d1b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif">
-    <text x="88" y="126" font-size="62" font-weight="800" letter-spacing="2">SE7EN-VISUAL</text>
-    <rect x="88" y="150" width="570" height="8" rx="4"/>
-    <text x="88" y="205" font-size="23" font-weight="700">漫画墨线 · 半调网点 · 空间方向一致</text>
-    <text x="88" y="252" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" fill="#4d4a44">A Codex visual system for useful, consistent images.</text>
+    <text x="88" y="126" font-size="62" font-weight="800" letter-spacing="2">SE7ENVISUAL</text>
+    <rect x="88" y="164" width="570" height="8" rx="4"/>
+    <text x="88" y="219" font-size="23" font-weight="700">漫画墨线 · 半调网点 · 空间方向一致</text>
+    <text x="88" y="266" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" fill="#4d4a44">A Codex visual system for useful, consistent images.</text>
   </g>
 
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif">
