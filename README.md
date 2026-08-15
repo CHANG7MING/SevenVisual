@@ -4,13 +4,21 @@
 
 <p align="center">
   <strong>SE7ENVISUAL</strong><br>
-  面向 Codex 的统一漫画墨线配图规范
+  面向 AI Agent 的漫画墨线配图、场景解释与空间控制 Skill
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-actively%20shaping-171817?style=flat-square&labelColor=d8ff47&color=171817" alt="状态：持续完善中">
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-171817?style=flat-square&labelColor=f5f5f0&color=171817" alt="MIT 许可证"></a>
-  <img src="https://img.shields.io/badge/stack-Codex%20%C2%B7%20ImageGen%20%C2%B7%20Python-171817?style=flat-square&labelColor=b8c9ff&color=171817" alt="Codex、ImageGen 和 Python">
+  <a href="./SKILL.md">使用说明</a> ·
+  <a href="./references/character-lock.md">角色规范</a> ·
+  <a href="./references/prompt-patterns.md">提示模板</a> ·
+  <a href="./output">质量案例</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-actively%20shaping-171817?style=flat-square&labelColor=d8ff47&color=171817" alt="状态：持续完善中" />
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-171817?style=flat-square&labelColor=f5f5f0&color=171817" alt="MIT 许可证" /></a>
+  <img src="https://img.shields.io/badge/runtime-Codex%20%C2%B7%20Python%203.9%2B-171817?style=flat-square&labelColor=b8c9ff&color=171817" alt="运行环境：Codex、Python 3.9 或更高版本" />
+  <img src="https://img.shields.io/badge/format-SKILL.md-171817?style=flat-square&labelColor=e7a24b&color=171817" alt="形式：SKILL.md" />
 </p>
 
 `se7en-visual` 是一套用于 Codex 图片生成的视觉与空间规则。它把角色身份、墨线、半调网点、颜色、场景、物体正反面和画幅比例统一起来，让不同主题的图片保持同一种视觉语言，同时减少“屏幕背面出现 UI”“书页方向反了”“人物和物体互相穿透”等反现实问题。
