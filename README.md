@@ -7,6 +7,12 @@
   面向 Codex 的统一漫画墨线配图规范
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-actively%20shaping-171817?style=flat-square&labelColor=d8ff47&color=171817" alt="状态：持续完善中">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-171817?style=flat-square&labelColor=f5f5f0&color=171817" alt="MIT 许可证"></a>
+  <img src="https://img.shields.io/badge/stack-Codex%20%C2%B7%20ImageGen%20%C2%B7%20Python-171817?style=flat-square&labelColor=b8c9ff&color=171817" alt="Codex、ImageGen 和 Python">
+</p>
+
 `se7en-visual` 是一套用于 Codex 图片生成的视觉与空间规则。它把角色身份、墨线、半调网点、颜色、场景、物体正反面和画幅比例统一起来，让不同主题的图片保持同一种视觉语言，同时减少“屏幕背面出现 UI”“书页方向反了”“人物和物体互相穿透”等反现实问题。
 
 适合生成概念解释、机制流程、视频剪辑、办公、运动、阅读、信息整理、对比关系和角色场景。
@@ -78,10 +84,20 @@
 
 ## 安装
 
+### 环境要求
+
+- 已安装并可使用 Codex，且当前环境支持图片生成。
+- Mode A 直接生成完整图片，不需要额外的本地依赖。
+- Mode B 如需运行透明背景处理脚本，需要 Python 3.9 或更高版本，并安装 `Pillow`：
+
+```bash
+python -m pip install -r requirements.txt
+```
+
 将仓库放到 Codex skills 目录：
 
 ```bash
-git clone https://github.com/your-account/se7en-visual.git ~/.codex/skills/se7en-visual
+git clone https://github.com/CHANG7MING/se7en-visual.git ~/.codex/skills/se7en-visual
 ```
 
 重启 Codex，然后在对话中点名使用：
@@ -154,3 +170,7 @@ se7en-visual/
 ## 参考
 
 README 的信息顺序和“真实项目素材优先、视觉与 Markdown 分层”的组织方式参考了 [`beautify-github-readme`](https://github.com/oil-oil/beautify-github-readme)；本 README 的规则和示例均以当前仓库实际内容为准。
+
+## License
+
+本项目基于 [MIT License](./LICENSE) 开源。
